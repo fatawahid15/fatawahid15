@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatawahid15
 - 👀 I’m interested in Games and Projects
-- 🌱 I’m currently learning Nestjs, Golang, Phyton, and much more...
+- 🌱 I’m currently learning C++, Golang, Phyton, and much more...
 - 📫 You can reach me at discord: @momons1
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Good Person
